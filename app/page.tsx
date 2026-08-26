@@ -86,7 +86,7 @@ export default function Home() {
       </section>
 
       <footer className="footer container">
-        <span>© 2026 Tang Siyu</span>
+        <span>© 2026 Tang Longsiyu</span>
         <span>Built for clarity, not clutter.</span>
       </footer>
     </main>
