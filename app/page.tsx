@@ -77,9 +77,9 @@ export default function Home() {
           <div>
             <p>I am interested in multimodal AI, AI agents and product prototyping. I enjoy turning research questions into experiments, then turning useful ideas into demos people can actually interact with.</p>
             <div className="about-links">
-              <a href="https://github.com/your-github" target="_blank">GitHub ↗</a>
+              <a href="https://github.com/TANG-2003" target="_blank">GitHub ↗</a>
               <a href="/resume.pdf">Resume ↗</a>
-              <a href="mailto:your-email@example.com">Email ↗</a>
+              <a href="mailto:1875906411@qq.com">Email ↗</a>
             </div>
           </div>
         </div>
