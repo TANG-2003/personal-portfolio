@@ -13,6 +13,7 @@ export default function Home() {
 
       <section className="hero container">
         <div className="hero-kicker">AI RESEARCH · AI PRODUCTS · INTERACTIVE PROTOTYPES</div>
+        <p className="hero-name">Tang Longsiyu</p>
         <h1>I research multimodal AI.<br />I build things people can use.</h1>
         <p className="hero-copy">A portfolio of research, AI products, agents, small tools and experiments — designed to be understood quickly and explored directly.</p>
         <div className="hero-actions">
